@@ -2,6 +2,7 @@ testGit
 
 Un cambio
 
-Holiiiii, calurosas tardes pa' to2
+Calurosas tardes pa' to2
 
 Daniel Ponz
+Josué
